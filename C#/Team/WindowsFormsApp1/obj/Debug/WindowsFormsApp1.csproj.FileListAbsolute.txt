@@ -1,0 +1,48 @@
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lee\Desktop\교육용 브라우저모음\c#깃\Ai_BigData_20210809\dj_cSharp\myclass_ai3\mini_pro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\good0\source\repos\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lee\Desktop\Team\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
