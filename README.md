@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=dff9fb&height=300&section=header&text=%20&fontSize=50)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 # Java
 #### java + Oracle SQL db연결 도서관리
