@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'am 신봉규&fontAlign=80&fontAlignY=40&color=gradient)
 
 # Java
 #### java + Oracle SQL db연결 도서관리
@@ -6,6 +6,9 @@
 
 # JSP
 #### 도서관리사이트 게시판. MySQL 연동
+
+# Spring
+#### 간단한 익명 게시판
 
 # C#
 #### 기초대사량,표준체중 계산기
